@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Posts
 
 # Use Nodejs microsevice and ReactJs
@@ -74,5 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-> > > > > > > b09dbbe (implement prettier, husky, lint and more)
